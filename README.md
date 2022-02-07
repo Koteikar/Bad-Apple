@@ -3,7 +3,9 @@
 When I was searching something to watch on YouTube, I find [THIS](https://www.youtube.com/watch?v=6zs6S_I5gH8)
 video and want to try to do something just like that by myself "and of course with help of stackoverflow". 
 
-![](images/git-prewiev.gif)
+[Link](https://youtu.be/ikyKLfB4cfg) to my video on YouTube.
+
+![](images/git-preview.gif)
 
 ## Getting Started
 
