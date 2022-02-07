@@ -1,0 +1,3 @@
+opencv-python
+fpstimer
+playsound==1.2.2
