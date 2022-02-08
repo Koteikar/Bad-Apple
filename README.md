@@ -48,6 +48,7 @@ To run this code print in terminal:
 ```
 python main.py
 ```
+If you run code for the first time, you need to type 'Y' when the code ask you if frames are needed.
 
 ## Built With
 
